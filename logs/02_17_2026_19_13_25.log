@@ -1,0 +1,10 @@
+{"timestamp": "2026-02-18T01:13:27.643309Z", "level": "info", "event": "Initializing ApiKeyManager"}
+{"timestamp": "2026-02-18T01:13:27.643826Z", "level": "info", "event": "OPENAI_API_KEY loaded successfully from environment"}
+{"timestamp": "2026-02-18T01:13:27.644194Z", "level": "info", "event": "GOOGLE_API_KEY loaded successfully from environment"}
+{"timestamp": "2026-02-18T01:13:27.644475Z", "level": "info", "event": "GROQ_API_KEY loaded successfully from environment"}
+{"path": "C:\\Users\\Erkinbek\\Desktop\\ai-agent\\research_and_analyst\\config\\configuration.yaml", "keys": ["llm"], "timestamp": "2026-02-18T01:13:27.648945Z", "level": "info", "event": "Configuration loaded successfully"}
+{"config_keys": ["llm"], "timestamp": "2026-02-18T01:13:27.649803Z", "level": "info", "event": "YAML configuration loaded successfully"}
+{"provider": "openai", "model": "gpt-4o", "timestamp": "2026-02-18T01:13:27.650204Z", "level": "info", "event": "Loading LLM"}
+{"provider": "openai", "model": "gpt-4o", "timestamp": "2026-02-18T01:13:28.416265Z", "level": "info", "event": "LLM loaded successfully"}
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+{"timestamp": "2026-02-18T01:13:29.594454Z", "level": "info", "event": "ModelLoader test completed successfully"}
